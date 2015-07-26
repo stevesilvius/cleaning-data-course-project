@@ -42,37 +42,37 @@ this repo. Key information is provided below:
 	denoted by the last character in the variable name
 
 ###List of measurement variable names:
-+tBodyAcc-mean()-XYZ
-+tBodyAcc-std()-XYZ
-+tGravityAcc-mean()-XYZ
-+tGravityAcc-std()-XYZ
-+tBodyAccJerk-mean()-XYZ
-+tBodyAccJerk-std()-XYZ
-+tBodyGyro-mean()-XYZ
-+tBodyGyro-std()-XYZ
-+tBodyGyroJerk-mean()XYZ
-+tBodyGyroJerk-std()XYZ
-+tBodyAccMag-mean()
-+tBodyAccMag-std()
-+tGravityAccMag-mean()
-+tGravityAccMag-std()
-+tBodyAccJerkMag-mean()
-+tBodyAccJerkMag-std()
-+tBodyGyroMag-mean()
-+tBodyGyroMag-std()
-+tBodyGyroJerkMag-mean()
-+tBodyGyroJerkMag-std()
-+fBodyAcc-mean()-XYZ
-+fBodyAcc-std()-XYZ
-+fBodyAccJerk-mean()XYZ
-+fBodyAccJerk-std()XYZ
-+fBodyGyro-mean()-XYZ
-+fBodyGyro-std()-XYZ
-+fBodyAccMag-mean()
-+fBodyAccMag-std()
-+fBodyAccJerkMag-mean()
-+fBodyAccJerkMag-std()
-+fBodyGyroMag-mean()
-+fBodyGyroMag-std()
-+fBodyGyroJerkMag-mean()
-+fBodyGyroJerkMag-std()
++ tBodyAcc-mean()-XYZ
++ tBodyAcc-std()-XYZ
++ tGravityAcc-mean()-XYZ
++ tGravityAcc-std()-XYZ
++ tBodyAccJerk-mean()-XYZ
++ tBodyAccJerk-std()-XYZ
++ tBodyGyro-mean()-XYZ
++ tBodyGyro-std()-XYZ
++ tBodyGyroJerk-mean()XYZ
++ tBodyGyroJerk-std()XYZ
++ tBodyAccMag-mean()
++ tBodyAccMag-std()
++ tGravityAccMag-mean()
++ tGravityAccMag-std()
++ tBodyAccJerkMag-mean()
++ tBodyAccJerkMag-std()
++ tBodyGyroMag-mean()
++ tBodyGyroMag-std()
++ tBodyGyroJerkMag-mean()
++ tBodyGyroJerkMag-std()
++ fBodyAcc-mean()-XYZ
++ fBodyAcc-std()-XYZ
++ fBodyAccJerk-mean()XYZ
++ fBodyAccJerk-std()XYZ
++ fBodyGyro-mean()-XYZ
++ fBodyGyro-std()-XYZ
++ fBodyAccMag-mean()
++ fBodyAccMag-std()
++ fBodyAccJerkMag-mean()
++ fBodyAccJerkMag-std()
++ fBodyGyroMag-mean()
++ fBodyGyroMag-std()
++ fBodyGyroJerkMag-mean()
++ fBodyGyroJerkMag-std()
